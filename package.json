@@ -1,6 +1,6 @@
 {
-  "name": "quillnink",
-  "displayName": "Quill n' Ink",
+  "name": "pitaya",
+  "displayName": "Pitaya Theme",
   "description": "Soft and clean theme for developers.",
   "version": "0.0.1",
   "engines": {
@@ -21,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Quill n Ink",
+        "label": "Pitaya",
         "uiTheme": "vs-dark",
-        "path": "./themes/Quill n Ink-color-theme.json"
+        "path": "./themes/Pitaya-color-theme.json"
       }
     ]
   }
