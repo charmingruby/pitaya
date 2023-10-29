@@ -1,12 +1,12 @@
 {
   "name": "quillnink",
-  "displayName": "quillnink",
+  "displayName": "Quill n' Ink",
   "description": "Soft and clean theme for developers.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
   },
-  "publisher": "Gustavo Dias",
+  "publisher": "GustavoDiasdeAlmeida",
   "repository": {
 		"type": "git",
 		"url": "https://github.com/charmingruby/quillnink.git"
@@ -14,6 +14,9 @@
   "icon": "icon.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark", "vscode", "theme"
   ],
   "contributes": {
     "themes": [
