@@ -25,6 +25,7 @@
 		"sideBar.dropBackground": "#1C1E21",
 		"sideBar.border": "#424549",
 		"sideBarSectionHeader.foreground": "#E36397",
+		
 
 		// Git
 		"gitDecoration.untrackedResourceForeground": "#78f070",
@@ -32,15 +33,28 @@
 		"gitDecoration.stageModifiedResourceForeground": "#f99f5e",
 		"gitDecoration.addedResourceForeground": "#78f070",
 				
+		// Focus
+		"focusBorder": "#E36397",
+		"list.activeSelectionBackground": "#12030B",
+
+		// Tab
+		"tab.border":"#424549",
+		"tab.activeBorder": "#E36397",
+
 		// Status Bar
 		"statusBar.background": "#131416",
 
 		// Terminal
 		"terminal.foreground": "#ECEBF3",
-		"terminalCursor.background": "#E36397",
+		"terminalCursor.foreground": "#E36397",
 
 		// Button Control
 		"button.background": "#E36397",
+
+		// Text Link
+		"textLink.foreground": "#E36397",
+		"textLink.activeForeground": "#86DEFE"
+
 	},
 	
 	"tokenColors": [
@@ -136,7 +150,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"fontStyle": "bold underline",
+				"fontStyle": "bold",
 				"foreground": "#58A4B0"
 			}
 		},

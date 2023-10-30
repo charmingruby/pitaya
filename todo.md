@@ -4,3 +4,4 @@
 - [ ] Blue actions
 - [ ] Terminal colors
 - [x] Underline in comments 
+- [x] Removed underline in functions 
