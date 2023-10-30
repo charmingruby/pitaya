@@ -24,6 +24,7 @@
 		"sideBarSectionHeader.border": "#424549",
 		"sideBar.dropBackground": "#1C1E21",
 		"sideBar.border": "#424549",
+		"sideBarSectionHeader.foreground": "#E36397",
 
 		// Git
 		"gitDecoration.untrackedResourceForeground": "#78f070",
@@ -36,10 +37,12 @@
 
 		// Terminal
 		"terminal.foreground": "#ECEBF3",
-		"terminalCursor.background": "#E36397"
+		"terminalCursor.background": "#E36397",
 
-
+		// Button Control
+		"button.background": "#E36397",
 	},
+	
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -48,7 +51,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic underline",
+				"fontStyle": "italic",
 				"foreground": "#eeffff5d"
 			}
 		},
