@@ -2,21 +2,23 @@
   "name": "pitaya",
   "displayName": "Pitaya Theme",
   "description": "Soft and clean theme for developers.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.83.0"
   },
   "publisher": "GustavoDiasdeAlmeida",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/charmingruby/quillnink.git"
-	},
+    "type": "git",
+    "url": "https://github.com/charmingruby/quillnink.git"
+  },
   "icon": "icon.png",
   "categories": [
     "Themes"
   ],
   "keywords": [
-    "dark", "vscode", "theme"
+    "dark",
+    "vscode",
+    "theme"
   ],
   "contributes": {
     "themes": [
