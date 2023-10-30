@@ -1,16 +1,14 @@
-# quillnink README
+# Pitaya Theme for VSCode
+## Current version 0.0.3
+### Combines the sophistication of a professional workspace with a soft and soothing touch theme. Dive into a world of productivity with a dark, polished background adorned by delicate shades of pink. This theme offers a refined coding experience that's as visually appealing as it is functional, allowing you to work in style. 
 
-## Working with Markdown
+#### Installation
+1. Hit Cmd+P(Mac), or Ctrl + P(Windows) to open the Command palette.
+2. Paste this— `ext install Sujan.code-blue`
+3. Hit Enter
+4. Hit Cmd+Shift+P / Ctrl+Shift+P, and type "Color theme" and hit enter.
+5. You should now see Code Blue in the list. Select and hit enter again.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+#### Additional steps
+6. Chill and code at the magnificent colours. 🤩
+7. Rate it 5 ⭐ in the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=GustavoDiasdeAlmeida.pitaya).
