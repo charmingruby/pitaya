@@ -1,5 +1,5 @@
 # Pitaya Theme for VSCode
-## Current version 0.0.3
+## Current version 0.0.5
 ### Experience a harmonious blend of professionalism and comfort in your workspace. Immerse yourself in productivity with a sleek, dark backdrop accentuated by subtle pink hues. This theme combines style and functionality for a refined coding experience. 
 
 #### Installation

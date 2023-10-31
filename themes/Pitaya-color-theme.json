@@ -1,5 +1,5 @@
 {
-	"name": "Quill n Ink",
+	"name": "Pitaya",
 	"colors": {
 		// Editor
 		"editor.background": "#1e2124",
@@ -36,6 +36,9 @@
 		// Focus
 		"focusBorder": "#E36397",
 		"list.activeSelectionBackground": "#12030B",
+
+		// List
+		"list.hoverBackground": "#35222c",
 
 		// Tab
 		"tab.border":"#424549",
@@ -115,7 +118,6 @@
 				"keyword.control",
 				"constant.other.color",
 				"punctuation",
-				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -127,6 +129,14 @@
 			],
 			"settings": {
 				"foreground": "#E36397"
+			}
+		},
+		{
+			"name": "Meta tags",
+			"scope": ["meta.tag"],
+			"settings": {
+				"foreground": "#eeffff",
+				"fontStyle": ""
 			}
 		},
 		{
