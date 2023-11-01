@@ -2,7 +2,7 @@
   "name": "pitaya",
   "displayName": "Pitaya Theme",
   "description": "Soft and clean theme for developers.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.83.0"
   },
