@@ -25,7 +25,6 @@
 		"sideBar.dropBackground": "#1C1E21",
 		"sideBar.border": "#424549",
 		"sideBarSectionHeader.foreground": "#E36397",
-		
 
 		// Git
 		"gitDecoration.untrackedResourceForeground": "#78f070",
@@ -39,6 +38,7 @@
 
 		// List
 		"list.hoverBackground": "#35222c",
+		"list.inactiveSelectionBackground": "#644053",
 
 		// Tab
 		"tab.border":"#424549",
@@ -56,7 +56,7 @@
 
 		// Text Link
 		"textLink.foreground": "#E36397",
-		"textLink.activeForeground": "#86DEFE"
+		"textLink.activeForeground": "#65DEF1"
 
 	},
 	
@@ -109,13 +109,12 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#58A4B0"
+				"foreground": "#65DEF1"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"punctuation",
 				"punctuation.definition.tag",
@@ -129,6 +128,15 @@
 			],
 			"settings": {
 				"foreground": "#E36397"
+			}
+		},
+		{
+			"name": "Keyword control",
+			"scope": [
+				"keyword.control",
+			],
+			"settings": {
+				"foreground": "#ff5b9c"
 			}
 		},
 		{
@@ -161,7 +169,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#58A4B0"
+				"foreground": "#8FE7F5"
 			}
 		},
 		{
@@ -219,7 +227,6 @@
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
-				"support.type",
 				"support.class",
 				"support.other.namespace.use.php",
 				"meta.use.php",
@@ -228,7 +235,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#FFC145",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -262,7 +270,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#E36397"
 			}
 		},
 		{
