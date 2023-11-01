@@ -38,7 +38,9 @@
 
 		// List
 		"list.hoverBackground": "#35222c",
-		"list.inactiveSelectionBackground": "#644053",
+		"list.inactiveSelectionBackground": "#1C1E21",
+		"list.inactiveFocusOutline": "#E36397",
+		"list.focusAndSelectionOutline": "#E36397",
 
 		// Tab
 		"tab.border":"#424549",
@@ -56,8 +58,21 @@
 
 		// Text Link
 		"textLink.foreground": "#E36397",
-		"textLink.activeForeground": "#65DEF1"
+		"textLink.activeForeground": "#65DEF1",
 
+		// Badge
+		"badge.background": "#E36397",
+		"badge.foreground": "#ECEBF3",
+
+		// Progress Bar
+		"progressBar.background": "#E36397",
+
+		// Selection
+		"selection.background": "#E36397",
+
+		// Input
+		"input.background": "#000",
+		"input.foreground": "#fff"
 	},
 	
 	"tokenColors": [
