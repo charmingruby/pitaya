@@ -6,7 +6,7 @@
 		"editor.foreground": "#eeffff",
 		"editorLineNumber.dimmedForeground": "#393B41",
 		"editorLineNumber.foreground": "#5F626D",
-		"editorLineNumber.activeForeground": "#E36397",
+		"editorLineNumber.activeForeground": "#E36397",		
 		
 		// Activity Bar
 		"activityBarBadge.background": "#E36397",
@@ -48,6 +48,7 @@
 
 		// Status Bar
 		"statusBar.background": "#131416",
+		"statusBar.debuggingBackground": "#35222c",
 
 		// Terminal
 		"terminal.foreground": "#ECEBF3",
