@@ -248,7 +248,6 @@
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
 				"support.class",
 				"support.other.namespace.use.php",
 				"meta.use.php",
@@ -258,16 +257,26 @@
 			],
 			"settings": {
 				"foreground": "#3FCA8C",
-				"fontStyle": "bold"
 			}
 		},
 		{
-			"name": "Entity Types",
+			"name": "Entity types",
 			"scope": [
-				"support.type"
+				"support.type",
+
 			],
 			"settings": {
-				"foreground": "#3FCA8C"
+				"foreground": "#FE9920"
+			}
+		},
+		{
+			"name": "Entity",
+			"scope": [
+				"entity.name",
+
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
 			}
 		},
 		{

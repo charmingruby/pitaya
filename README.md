@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.0.7-%23DA70D6.svg" alt="Current version" />
+  <img src="https://img.shields.io/badge/version-0.0.11-%23DA70D6.svg" alt="Current version" />
   <img src="https://img.shields.io/badge/PRs-accepting-%23DA70D6.svg" alt="PRs accepting!" />
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%23DA70D6">
 </p>
