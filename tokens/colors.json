@@ -2,7 +2,8 @@
     "primary": {
         "defaultUse": {
             "default": "#E36397",
-            "keyword": "#ff5b9c"
+            "keyword": "#ff5b9c",
+            "minimal": "#977EF1"
         },
         "actions": {
             "hover": "#35222c",

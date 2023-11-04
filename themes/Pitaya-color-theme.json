@@ -171,7 +171,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#89C1EA"
+				"foreground": "#65DEF1"
 			}
 		},
 		{
@@ -225,9 +225,15 @@
 			}
 		},
 		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#C792EA",
+			}
+		},
+		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
-				"string",
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
@@ -251,7 +257,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFC145",
+				"foreground": "#3FCA8C",
 				"fontStyle": "bold"
 			}
 		},
@@ -261,7 +267,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#3FCA8C"
 			}
 		},
 		{
@@ -325,7 +331,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#977EF1"
 			}
 		},
 		{
