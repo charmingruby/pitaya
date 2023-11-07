@@ -2,24 +2,24 @@
 	"name": "Pitaya",
 	"colors": {
 		// Editor
-		"editor.background": "#1e2124",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#252930",
+		"editor.foreground": "#aaaeb6",
 		"editorLineNumber.dimmedForeground": "#393B41",
 		"editorLineNumber.foreground": "#5F626D",
 		"editorLineNumber.activeForeground": "#E36397",		
 		
 		// Activity Bar
 		"activityBarBadge.background": "#E36397",
-		"activityBar.background": "#131416",
+		"activityBar.background": "#1d2127",
 		"activityBar.border": "#424549",
 		"activityBar.activeBorder": "#E36397",
-		"activityBar.activeBackground": "#1e2124",
+		"activityBar.activeBackground": "#252930",
 		"activityBar.activeFocusBorder": "#E36397",
 		"activityBarBadge.foreground": "#FFFFFF",
 
 		// Sidebar
 		"sideBarTitle.foreground": "#FFFFFF",
-		"sideBar.background": "#131416",
+		"sideBar.background": "#1d2127",
 		"sideBar.foreground": "#ECEBF3",
 		"sideBarSectionHeader.border": "#424549",
 		"sideBar.dropBackground": "#1C1E21",
@@ -47,7 +47,7 @@
 		"tab.activeBorder": "#E36397",
 
 		// Status Bar
-		"statusBar.background": "#131416",
+		"statusBar.background": "#1d2127",
 		"statusBar.debuggingBackground": "#35222c",
 
 		// Terminal
@@ -72,7 +72,7 @@
 		"selection.background": "#E36397",
 
 		// Input
-		"input.background": "#000",
+		"input.background": "#131519",
 		"input.foreground": "#fff"
 	},
 	
