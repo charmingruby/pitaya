@@ -184,7 +184,6 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#8FE7F5"
 			}
 		},
